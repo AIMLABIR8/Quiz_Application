@@ -19,7 +19,7 @@ Welcome to my **Quiz Application**, a dynamic and interactive web app built usin
 * JavaScript – Logic and interactivity
 
 
-🎯 Goals
+## 🎯 Goals
 
 Improve my frontend development skills through a practical project
 
