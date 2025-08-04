@@ -14,8 +14,8 @@ Welcome to my **Quiz Application**, a dynamic and interactive web app built usin
 
 ### 🚀 Technologies Used
 
-* HTML5 – Structure
-* CSS3 – Styling and layout
+* HTML – Structure
+* CSS – Styling and layout
 * JavaScript – Logic and interactivity
 
 
