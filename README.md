@@ -20,6 +20,7 @@ Welcome to my **Quiz Application**, a dynamic and interactive web app built usin
 
 
 🎯 Goals
+
 Improve my frontend development skills through a practical project
 
 Learn how to handle user interactions and input validation in JavaScript
